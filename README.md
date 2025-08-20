@@ -54,26 +54,24 @@ const developer = {
 
 ### Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### Database
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
@@ -84,10 +82,10 @@ const developer = {
 
 <div align="center">
   
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=0D1117" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rsroman9800&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rsroman9800&theme=tokyonight&hide_border=true&background=0D1117" />
   
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsroman9800&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
 </div>
 
@@ -97,37 +95,59 @@ const developer = {
 
 <div align="center">
 
-### 🌐 [E-Commerce Platform](https://github.com/yourusername/ecommerce-project)
-*Full-stack e-commerce solution with React, Node.js, and MongoDB*
+### 🗺️ Destination History
+*Led cross-functional team building a travel app platform for Alberta tourism. Integrated Google Maps API for coordinate-based asset tracking, implemented location data processing, and built responsive web interfaces for remote collaboration.*
 
-[![Repo](https://img.shields.io/badge/-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/ecommerce-project)
-[![Demo](https://img.shields.io/badge/-Live_Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-demo-link.com)
+[![Repo](https://img.shields.io/badge/-Private_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](#)  
+[![Demo](https://img.shields.io/badge/-Demo_Unavailable-gray?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 
-**Tech Stack:** React • Node.js • MongoDB • Express • Stripe API
-
----
-
-### 📱 [Task Management App](https://github.com/yourusername/task-manager)
-*Responsive task management with real-time updates and team collaboration*
-
-[![Repo](https://img.shields.io/badge/-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/task-manager)
-[![Demo](https://img.shields.io/badge/-Live_Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-demo-link.com)
-
-**Tech Stack:** Vue.js • Firebase • Tailwind CSS • PWA
+**Tech Stack:**  
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![AI Integration](https://img.shields.io/badge/-AI_Integration-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
-### 📊 [Data Visualization Dashboard](https://github.com/yourusername/data-dashboard)
-*Interactive dashboard with real-time charts and analytics*
+### 🎮 Mood Hops
+*A fun mobile platformer built in React Native and Expo with a custom physics engine using Expo Haptics. Created math-driven camera, jump, and platform physics.*
 
-[![Repo](https://img.shields.io/badge/-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/data-dashboard)
-[![Demo](https://img.shields.io/badge/-Live_Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-demo-link.com)
+[![Repo](https://img.shields.io/badge/-Private_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](#)  
+[![Demo](https://img.shields.io/badge/-Demo_Unavailable-gray?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 
-**Tech Stack:** Python • Flask • D3.js • Chart.js • PostgreSQL
+**Tech Stack:**  
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/-Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Physics Engine](https://img.shields.io/badge/-Physics_Engine-FF9800?style=for-the-badge&logo=unity&logoColor=white)
+
+---
+
+### 👗 [StyleGuide](https://github.com/rsroman9800/wardrobe-app)
+*Fashion and weather-powered clothing recommendation engine using Groq AI. Built with Next.js and Firebase. Offers personalized recommendations based on gender, weather, and style.*
+
+[![Repo](https://img.shields.io/badge/-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rsroman9800/wardrobe-app)  
+[![Demo](https://img.shields.io/badge/-Demo_Unavailable-gray?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+
+**Tech Stack:**  
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Groq AI](https://img.shields.io/badge/-Groq_AI-FF4B4B?style=for-the-badge&logo=ai&logoColor=white)
+
+---
+
+### 🏡 [Village Rentals System](https://github.com/rsroman9800/VillageRentals)
+*A full MAUI-based GUI rental management system. The project showcases front-end skills and system flow.*
+
+[![Repo](https://img.shields.io/badge/-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rsroman9800/VillageRentals)  
+[![Demo](https://img.shields.io/badge/-Demo_Unavailable-gray?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+
+**Tech Stack:**  
+![.NET MAUI](https://img.shields.io/badge/-MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/-C_Sharp-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![GUI Design](https://img.shields.io/badge/-GUI_Design-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)
 
 </div>
 
----
 
 ## 📈 Coding Activity
 
