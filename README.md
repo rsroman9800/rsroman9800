@@ -4,10 +4,10 @@
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full-Stack+Developer;Problem+Solver;Tech+Enthusiast)
   
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-  [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roman-sorokin1/)
+  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rsroman9800/)
+  [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rsromansorokin@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://roman-portfolio98.vercel.app/)
 
 </div>
 
@@ -17,10 +17,10 @@
 
 ```javascript
 const developer = {
-    name: "Your Name",
+    name: "Roman Sorokin",
     role: "Full-Stack Developer",
-    location: "Your City, Country",
-    education: "Computer Science / Software Development",
+    location: "Calgary, AB",
+    education: "Software Development",
     
     currentFocus: [
         "Building scalable web applications",
@@ -28,13 +28,13 @@ const developer = {
         "Contributing to open source"
     ],
     
-    hobbies: ["🎮 Gaming", "📚 Reading", "🎵 Music", "🌱 Learning new tech"],
+    hobbies: ["🏋️ Fitness", "🏒 Hockey", "🎵 Music", "🌱 Learning new tech"],
     
-    quote: "Code is poetry written in logic."
+    quote: "Don't let perfection or fear be the reason you watch your idea succeed… in someone else's hands."
 };
 ```
 
-💻 **2+ years** of experience in full-stack development  
+💻 **1.5+ years** of experience in full-stack development  
 🎯 **Passionate** about creating innovative digital solutions  
 🌱 **Always learning** new technologies and best practices  
 🤝 **Open to collaborate** on interesting projects  
