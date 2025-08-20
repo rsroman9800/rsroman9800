@@ -85,7 +85,7 @@ const developer = {
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rsroman9800&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rsroman9800&theme=tokyonight&hide_border=true&background=0D1117" />
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rsroman9800)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rsroman9800)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
