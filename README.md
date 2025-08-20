@@ -85,7 +85,7 @@ const developer = {
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rsroman9800&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rsroman9800&theme=tokyonight&hide_border=true&background=0D1117" />
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rsroman9800)](https://github.com/anuraghazra/github-readme-stats)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rsroman9800&hide=LLVM)
 
 </div>
 
@@ -145,15 +145,6 @@ const developer = {
 ![.NET MAUI](https://img.shields.io/badge/-MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/-C_Sharp-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![GUI Design](https://img.shields.io/badge/-GUI_Design-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)
-
-</div>
-
-
-## 📈 Coding Activity
-
-<div align="center">
-  
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rsroman9800&theme=react-dark&bg_color=0D1117&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
