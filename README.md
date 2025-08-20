@@ -153,7 +153,7 @@ const developer = {
 
 <div align="center">
   
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&bg_color=0D1117&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rsroman9800&theme=react-dark&bg_color=0D1117&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
