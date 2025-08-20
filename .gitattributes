@@ -1,22 +1,46 @@
-# Ignore build outputs
+# ------------------------------
+# Ignore build and compiled outputs
+# ------------------------------
 /build/* linguist-vendored
 /dist/* linguist-vendored
 /out/* linguist-vendored
 
-# Ignore dependencies
-/node_modules/* linguist-vendored
-
-# Ignore React Native compiled files
+# Ignore React Native build folders
 /ios/* linguist-vendored
 /android/* linguist-vendored
 
-# Ignore videos and thumbnail assets
+# Ignore dependency folders
+/node_modules/* linguist-vendored
+
+# Ignore videos, thumbnails, and demo assets
 /videos/* linguist-vendored
 /thumbnails/* linguist-vendored
 
-# Optional: Force correct language detection
+# ------------------------------
+# Force proper language detection
+# ------------------------------
+# JavaScript / React / Next.js
 *.js   linguist-language=JavaScript
 *.jsx  linguist-language=JavaScript
 *.ts   linguist-language=TypeScript
 *.tsx  linguist-language=TypeScript
+
+# C# / MAUI projects
 *.cs   linguist-language=C#
+
+# HTML / CSS / JSON for web projects
+*.html linguist-language=HTML
+*.css  linguist-language=CSS
+*.json linguist-language=JSON
+
+# Markdown / documentation
+*.md   linguist-language=Markdown
+*.yml  linguist-language=YAML
+*.yaml linguist-language=YAML
+
+# Optional: AI / custom scripts
+*.py   linguist-language=Python
+*.ipynb linguist-language=Jupyter Notebook
+
+# Optional: SQL / database scripts
+*.sql  linguist-language=SQL
